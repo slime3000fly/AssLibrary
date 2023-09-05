@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AssLibrary
-build_property.ProjectDir = /Users/piotr/Desktop/AssLibrary/
+build_property.ProjectDir = /Users/piotr/Desktop/asslibrary/
