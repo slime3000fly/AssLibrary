@@ -1,0 +1,12 @@
+/Users/piotr/Desktop/AssLibrary/bin/Debug/net7.0/AssLibrary.deps.json
+/Users/piotr/Desktop/AssLibrary/bin/Debug/net7.0/AssLibrary.dll
+/Users/piotr/Desktop/AssLibrary/bin/Debug/net7.0/AssLibrary.pdb
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.csproj.AssemblyReference.cache
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.AssemblyInfoInputs.cache
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.AssemblyInfo.cs
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.csproj.CoreCompileInputs.cache
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.dll
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/refint/AssLibrary.dll
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/AssLibrary.pdb
+/Users/piotr/Desktop/AssLibrary/obj/Debug/net7.0/ref/AssLibrary.dll
